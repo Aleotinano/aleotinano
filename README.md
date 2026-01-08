@@ -59,9 +59,9 @@
 <a href="https://aleotinano.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
 </a>
-<a href="https://es.fiverr.com/aleotinano">
+<!-- <a href="https://es.fiverr.com/aleotinano">
   <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
-</a>
+</a> -->
 <a href="mailto:alejandrootinano2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
