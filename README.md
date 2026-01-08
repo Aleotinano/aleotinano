@@ -8,11 +8,10 @@
   <img align="right" width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 
   <div align="left">
-      <h4>2 años programando • 1 año de experiencia laboral • +7 proyectos </h4> <br>
-      <br>
+      <h4>2 años programando • 1 año de experiencia laboral • +7 proyectos </h4> 
       <p>Desarrollador frontend con 2+ años de experiencia creando interfaces modernas y escalables.</p>
       <p>Me especializo en React, arquitectura de componentes y optimización de rendimiento.</p>
-      <p>Actualmente disponible para nuevos proyectos y oportunidades.</p>
+      <p>Actualmente disponible para nuevos proyectos y oportunidades.</p><br>
   </div>
 </div>
 
