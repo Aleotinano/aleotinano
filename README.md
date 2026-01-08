@@ -2,12 +2,13 @@
 <h3 align="start">¡Hola! Soy Alejandro - Desarrollador Frontend </h3>
 
 <h2></h2>
+
 <div align="center">
    
   <img align="right" width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 
   <div align="left">
-      <strong>2 años programando • 1 año de experiencia laboral • +7 proyectos </strong> <br>
+      <h4>2 años programando • 1 año de experiencia laboral • +7 proyectos </h4> <br>
       <br>
       <p>Desarrollador frontend con 2+ años de experiencia creando interfaces modernas y escalables.</p>
       <p>Me especializo en React, arquitectura de componentes y optimización de rendimiento.</p>
@@ -23,13 +24,12 @@
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSSS-6A399C?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-6A399C?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 </div>
